@@ -1,0 +1,13 @@
+.bg-sanjose{
+    background: #0d47a1;
+}
+.fondo{
+    background: url(../img/imagen2.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+.efecto:hover{
+    background-color: white;
+    color: #0d47a1;
+}
